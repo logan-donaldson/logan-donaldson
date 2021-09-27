@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Logan Donaldson.
-- 👀 My academic interests include data science, machine learning, mathematical optimization (linear programming), and video game programming. 
+- 👀 My academic interests include data science, machine learning, mathematical optimization (linear programming), sports analytics, and video game programming. 
 - 👀 My personal interests include space, sports, and video games. 
 - 🌱 I’m currently studying at Johns Hopkins University where I intend to earn a B.S. in Applied Mathematics and Statistics (2022) and an M.S.E. in Data Science (2023).
 
